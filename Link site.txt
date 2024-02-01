@@ -1,0 +1,7 @@
+https://auroraalliance.netlify.app/
+
+Senha: 123456
+
+Site desenvolvido como projeto do Sprint03 das disciplinas Web Standards and Game Developing e 
+Sistemas de Informação e Resultados Empresariais 
+no curso de bacharelado em Sistemas de Informação da faculdade FIAP.

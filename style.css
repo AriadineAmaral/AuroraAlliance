@@ -1,0 +1,143 @@
+/* Background da Página */
+.bg-img {
+    background-image: url(./imgPrincipal/bg.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+      
+ }
+
+ 
+/* Background nav "nosso robô */
+ .dropdown-menu {
+    background-color: #000000; 
+    
+}
+
+.navbar-toggler-icon {
+   filter: invert(1); 
+}
+
+
+/* Cor da Nav */
+ul a:hover {
+   color:  #9340FF !important;
+}
+
+ /* Botões */
+
+ .btn-geral {
+     border-radius: 100rem;
+     padding:1em;
+     font-size:1.2em;
+     padding:.7rem 4rem;
+     border: transparent;
+     background: linear-gradient(to right, #FF3C5F, #9340FF);
+     
+ }
+
+ .btn-geral:hover {
+   transition: transform 0.3s; 
+   transform: scale(1.1); 
+       
+}
+
+ /* Tamanho da fonte Andrômeda */
+ .fw-semibold {
+     font-size: 50px;
+     
+ }
+ 
+ /* Texto home */
+ 
+ .fw-medium {
+     align-items: center;
+     margin-right: 20px;
+ }
+
+ .rounded {
+    width: 90%;
+ }
+
+ .fs-1 {
+    color: #f7eded;
+ }
+ 
+ .embed-responsive {
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+ }
+
+ .footer{
+    width: 2.5%;
+ }
+
+ .accordion {
+    text-align: start;
+ }
+
+ .custom-accordion-button.collapsed::before {
+    border-top-color: white;
+}
+
+.card-link{
+   color: #9340FF;
+}
+
+/* Transição de todas as imagens */
+.img-transition {
+   transition: transform 0.3s ; 
+}
+
+
+.img-transition:hover {
+   transform: scale(1.1); 
+}
+
+.border-accordion {
+   border-color:#9340FF !important;
+}
+
+
+.social-link {
+   width: 30px;
+   height: 30px;
+   border: 1px solid #ddd;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   color: #666;
+   border-radius: 50%;
+   transition: all 0.3s;
+   font-size: 0.9rem;
+}
+
+.social-link:hover, .social-link:focus {
+   background: #ddd;
+   text-decoration: none;
+   color: #555;
+}
+
+.text-justify {
+   text-align: justify;
+}
+
+
+/* Demerval */
+
+.btn-derm{
+   border-radius: 1.5rem;
+     padding:1em;
+     font-size:2em;
+     border: transparent;
+     background: linear-gradient(to right, #FF3C5F, #9340FF);
+     
+}
+.btn-derm:hover {
+   color:  #010101 !important;
+   transition: transform 0.3s; 
+   transform: scale(1.1); 
+}
+
+
